@@ -38,5 +38,6 @@ int main() {
         ptr = ptr->next;
     }
     printf("%d",ptr->data);
+    
     return 0;
 }
